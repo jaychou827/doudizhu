@@ -1,5 +1,5 @@
-import com.itheima.game.GameJFrame;
-import com.itheima.game.LoginJFrame;
+import com.hefeishifan.game.GameJFrame;
+import com.hefeishifan.game.LoginJFrame;
 
 public class App {
     public static void main(String[] args) {
